@@ -2,17 +2,16 @@
 <br/>
 <br/>
 # The Complete Corpus in Friendly Markdown Format
-### All 53 official books of the Ars Magica RPG Open License
+### All 50+ official books of the Ars Magica RPG Open License
 <br/>
 This is a work-in-progress repository for machine-extracted, manually fixed markdowns of a complete set of the official Ars Magica Open Licensed material. These files should all be of a significantly better quality than what has been released openly so far.
 
-* In the **/raw-md** folder, you'll find raw output dumps (from a longer workflow of re-OCR and AI-enhanced extraction and conversion) that are mostly in pretty good shape (3rd edition books excluded). However, expect that tables, index and anything obscured by graphics may be broken. Headings are often a bit garbled, and text may be out of sequence or missing due to borked pdf layouts. NOT RECOMMENDED FOR USE!
 * In the **/wip** folder, is manual fixing work-in-progress. Whatever is here can be expected to be in much better shape than the raw markdowns. All extraneous image links and html is gone from all files (the br's are required for multiline tables), and so's plenty of junk. Use these files until **reviewed** is populated. If you want to help fix something, checkout these.
 * In the [**/reviewed**](/reviewed/) folder, you'll find Markdown files that has had at least one full manual pass & review and the official errata added. All books here should be in excellent condition. There may still be minor things that need correction and additional review passes (please submit corrections). The completion state is indicated at the beginning of the document. **USE THESE!**
 
 * In the [**/3rd-party**](/3rd-party/) folder, you'll find markdown versions of 3rd party material (added by popular demand). Feel free to submit new files here (we'll accept what's what's within open license and in good shape).
 
-The public is welcome to commit fixes, new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements and Houses of Hermes are most in need.*
+The public is welcome to commit fixes, new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements are most in need.*
 <br/>
 <br/>
 
@@ -22,7 +21,10 @@ The game is about incredibly powerful - but politically limited - Wizards in the
 
 You'll want to start with the the *Ars Magica - Definitive Edition \(Core Rules\).md* file in the [/reviewed](/reviewed/) folder to explore one of the best RPG ever made. **Headsup: Unlike the rest of the books, Definitive Edition is too large (582 pages) for GitHub to render it - you have to download the file!** 
 
-**Update: The markdown version of *Ars Magica Definitive Edition \(Core Rules\).md* now has clickable convenience links for TOC, All Virtues & Flaws, Complete Spells Index, Spell Guidelines Index, Bestiary Index, and (wip) Traditional Index. Should be a breeze to navigate.** 
+**Update: The markdown version of *Ars Magica Definitive Edition \(Core Rules\).md* now has clickable convenience links for TOC, All Virtues & Flaws, Complete Spells Index, Spell Guidelines Index, Bestiary Index, and Traditional Index. Should be a breeze to navigate.** 
+<br/>
+<br/>
+**Update 2: Definitive Edition is now also available in a split file version so it can be directly read here on GitHub or in readers otherwise not capable. All links should work across files. You'll find it here: [/reviewed/Ars Magica - Definitive Edition - Split Chapters/](/reviewed/Ars%20Magica%20-%20Definitive%20Edition%20-%20Split%20Chapters/).** 
 <br/>
 <br/>
 
@@ -43,12 +45,27 @@ EDIT: YR7 of that project is now helping with this and the plan is to convert fr
 <br/>
 <br/>
 <br/>
-**Shameless Plug:** If you are here for Ars Magica content, you're very likely to appreciate my other project - *The Ars Magica Chronology:* https://forum.atlas-games.com/t/the-ars-magica-chronology-project-200-pages-timeline-of-the-order-and-the-history-of-magic/171381
+**Shameless Plug:** If you are here for Ars Magica content, you're very likely to appreciate my other project - *The Ars Magica Chronology:* https://forum.atlas-games.com/t/the-ars-magica-chronology-project-200-pages-timeline-of-the-order-and-the-history-of-magic/171381 <br/>
+UPDATE: It's also been made available as markdown in the [**/3rd-party**](/3rd-party/) folder here.
 <br/>
 <br/>
 <br/>
-**License:** All text of Ars Magica 5th Edition and its sourcebooks (53 books total) has been released under an open license:
+**License:** All text of Ars Magica 5th Edition and its sourcebooks, as well as select 3rd and 4th edition material has been released under an open license:
 *Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")*
 https://www.atlas-games.com/arsmagica/openars
 
 Of course, the full PDFs or Physical books are much nicer with layout, pictures, maps and so on. I highly recommend you get the ones you want and support our favorite publisher: https://www.atlas-games.com/arsmagica
+<br/>
+<br/>
+<br/>
+> Ars Magica Open License projects in other languages:
+> - [German: Ars Magica Open License German](https://github.com/garin1000/Ars-Magica-Open-License-German) — A German-language translation project for Ars Magica resources under the Open Game License.
+> - [Japanese: Ars Magica: Definitive Edition](https://github.com/arsmagica-jp/DefinitiveEdition) — A Japanese translation repository for the Ars Magica Definitive Edition, released under the CC BY-SA 4.0 open license.
+> - [Simplified Chinese: Ars Magica Translated Resources in Chinese](https://github.com/AgClWilde/Ars-Magica-Translated-Resources-in-Chinese) — An ongoing Simplified Chinese translation project covering the Definitive Edition core rules, character sheets, supplements, and other resources.
+> - **Spanish**: Holocubierta released multiple books under language license. Only Finis Terrae has been Open Licensed so far. You'll find it in this repository in both Spanish and English, under [**/3rd-party**](/3rd-party/).
+> - **Swedish:** TBA (in the works)
+<br/>
+<br/>
+<br/>
+
+![](released-images/arm5sigil.png)

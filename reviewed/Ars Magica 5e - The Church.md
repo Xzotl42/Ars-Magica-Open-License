@@ -2,10 +2,15 @@
 A sourcebook for Ars Magica 5th Edition about the Western Church as an institution in Mythic Europe.
 
 > *Open License Markdown version by YairRezek, applejuice1965 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
-> 
+>
 > *[Completion state: Text manually fixed. TOC by  Remaining: Full review]*
-> 
+>
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+### Identified Issues From Source PDF Release
+Applied errata.
+
+---
 
 God rules Mythic Europe in awesome majesty, served by the angelic hosts. For most people, however, the majesty of the local bishop is awe-inspiring enough, and God is served by the priests, monks, and friars who share their communities. The Church touches every aspect of life, and every individual heart. Even magi in their covenants must contend with the Church, and many trust it with the salvation of their souls.
 
@@ -15,11 +20,17 @@ This book provides background and rules for the Western Church as a human instit
 
 **Authors:** Richard Love (Diocese), Christian Jensen Romer (Congregation, Rule, Corrupt), Sheila Thomas (Rule, Women, Franciscans), Alexander White (Templars)
 
-**Development, Editing, & Project Management:** David Chart **Layout, Art Direction, & Proofreading:** Michelle Nephew **Additional Proofreadng:** Jessica Banks
+**Development, Editing, & Project Management:** David Chart
+
+**Layout, Art Direction, & Proofreading:** Michelle Nephew
+
+**Additional Proofreadng:** Jessica Banks
 
 **Publisher:** John Nephew
 
-**Cover Illustration:** Grey Thornberry **Cartography:** Sean MacDonald
+**Cover Illustration:** Grey Thornberry
+
+**Cartography:** Sean MacDonald
 
 **Interior Art Sources:**
 
@@ -47,7 +58,9 @@ Horne, Charles F., ed. *Great Men and Famous Women*. Vol. V. NY: Selmar Hess, 18
 
 Menges, Jeff. A, ed. *Doré's Knights and Medieval Adventure*. Mineola, NY: Dover Publications, Inc., 2008.
 
-**Ars Magica Fifth Edition Trade Dress:** J. Scott Reeves **Publisher's Special Thanks**: Jerry Corrick & the gang at the Source.
+**Ars Magica Fifth Edition Trade Dress:** J. Scott Reeves
+
+**Publisher's Special Thanks**: Jerry Corrick & the gang at the Source.
 
 **First Round Playtesters:** Leon Bullock, Peter Ryan, Chris Barrett; Donna Giltrap, Malcolm Harbrow, Aaron Hicks; Mark Shirley,
 
@@ -655,9 +668,7 @@ While some clergy adopt a somewhat jaundiced view of their flock's spiritual pot
 
 Most people in Christendom accept the status of the Church, yet impiety is not uncommon. In some parishes where the priest struggles to hold his flock's attention, it may even be the norm. Impiety may take the form of gossiping, quarreling, gaming with dice, and flirting in church during divine service. One can imagine a parish priest with the Flaw: Difficult Underlings, who can never control his congregation.
 
-Such indiscipline is not usual though — while most districts have a village or two renowned for impiety or rowdy behavior, generally throughout Western Mythic Europe a tone of reverence and quiet attention can be found while the service is in progress, with relatively few nodding off to sleep or whispering to their neighbors. A sense of the sacred, the real presence of God (as reflected in the Dominion aura), and the fact that sermons and the ritual provide entertainment and color hold most worshipers' attention fully. (Those who went on the ill-fated Fourth Crusade sixteen years ago were shocked by the chattering and clamor 
-of the crowds in the Orthodox churches, in contrast). The Church tends to look on these problems as a personal failure by the priest, and (where they exist) the churchwardens. After all, congregations are, like 
-all Christians, sinners.
+Such indiscipline is not usual though — while most districts have a village or two renowned for impiety or rowdy behavior, generally throughout Western Mythic Europe a tone of reverence and quiet attention can be found while the service is in progress, with relatively few nodding off to sleep or whispering to their neighbors. A sense of the sacred, the real presence of God (as reflected in the Dominion aura), and the fact that sermons and the ritual provide entertainment and color hold most worshipers' attention fully. (Those who went on the ill-fated Fourth Crusade sixteen years ago were shocked by the chattering and clamor of the crowds in the Orthodox churches, in contrast). The Church tends to look on these problems as a personal failure by the priest, and (where they exist) the churchwardens. After all, congregations are, like all Christians, sinners.
 
 >#### Purgatory
 >
@@ -1147,7 +1158,7 @@ Some important Virtues and Flaws for clergy characters are listed below. You sho
 
 The character is an archbishop, bishop, abbot, abbess, or another senior member of the Church. He has access to the resources of the Church and may have additional duties and powers according to his office.
 
-You may make take either the Wealthy or Poor Virtue/Flaw for the character. This does *not* necessarily represent the status of the character's diocese, instead it represents the personal wealth of the character. Senior clergy can amass wealth by receiving the benefice of several offices. Indeed, it is not unusual for a character to receive the benefice from various parishes scattered throughout Mythic Europe. He may never even visit some of the dioceses in which his parishes are located, although obviously the character needs to employ a curate to discharge the actual priestly duties in these remote parishes.
+You may take either the Wealthy or Poor Virtue/Flaw for the character. This does *not* necessarily represent the status of the character's diocese, instead it represents the personal wealth of the character. Senior clergy can amass wealth by receiving the benefice of several offices. Indeed, it is not unusual for a character to receive the benefice from various parishes scattered throughout Mythic Europe. He may never even visit some of the dioceses in which his parishes are located, although obviously the character needs to employ a curate to discharge the actual priestly duties in these remote parishes.
 
 The character has a Reputation of level 4, either good or bad, in both the local community and the Church.
 
@@ -1203,7 +1214,9 @@ This supernatural power is granted to characters by either the pope, or the Divi
 
 The character has a power equivalent to the Hermetic spell *Aura of Rightful Authority* (see **ArM5**, page 151), but with Voice Range; this power has no cost, and no penetration. The character also has a Magic Resistance and a Soak bonus that depend upon his rank in the Church. If the character carries a relic, this Magic Resistance is *added* to that of the relic.
 
-**Pope:** Magic Resistance 25, Soak bonus +5. **Cardinal, or legatus a latere:** Magic Resistance 20, Soak Bonus +4.
+**Pope:** Magic Resistance 25, Soak bonus +5.
+
+**Cardinal, or legatus a latere:** Magic Resistance 20, Soak Bonus +4.
 
 **Legatus missus:** Magic Resistance 15, Soak Bonus +3.
 
@@ -1350,7 +1363,7 @@ If your saga follows history, Honorius III dies on March 18, 1227 and is succeed
 >
 >**Notaries:** Masters Guido, Fortis, Obizo, Maximus; all sub-deacons.
 >
->**Corrector:** Bandinus of Siena, deacon. 
+>**Corrector:** Bandinus of Siena, deacon.
 >
 >**Camerlengo:** Stefano di Cecanno, cardinal-priest of Saint XII Apostoli (1213), appointed camerlengo 1219.
 >
@@ -1384,13 +1397,13 @@ The chancery controls correspondence between the pope and Christendom. Petitions
 
 The offices in chancery are all held by clergy ordained as acolytes or higher:
 
-**Vice-Chancellor: T**he head of the chancery (the office of chancellor was suppressed by Honorius III in 1216, concentrating power with the pope).
+**Vice-Chancellor:** The head of the chancery (the office of chancellor was suppressed by Honorius III in 1216, concentrating power with the pope).
 
 **Notaries:** There are six notaries. Along with the vice-chancellor, they also take the role of the data communis.
 
 **Abbreviatores:** Each notary has two or three of these assistants.
 
-**Corrector: T**here are usually two correctors. 
+**Corrector:** There are usually two correctors.
 
 **Bullatores:** These officials hold the papal seal. The seal is not applied until the petitioner pays a tax that meets the cost of the parchment, ink, etc.
 
@@ -1414,11 +1427,7 @@ Judicial officials help the pope to make rulings on disputed cases, appeals, and
 
 **Penitentiarius:** This official is a cardinal who deals with appeals to penances, who grants dispensations, and who can commute or postpone vows. He is also the confessor for the cardinals. He has up to 12 sub-penitentiarii — deputies who may be sub-deacons, deacons, or priests.
 
-**Auditores: T**hese officials are appointed as required on a case-by-case basis from the cardinals, bishops, and the papal capellani as a temporary position. Auditores can judge any legal case or petition brought to the papacy, including those brought in person (rather than via letters). However, the pope reserves disputes over elections to himself. The precise jurisdictional
-
-#### The Church
-
-boundaries between the penitentiarius and the auditores are unclear in the 13th century.
+**Auditores:** These officials are appointed as required on a case-by-case basis from the cardinals, bishops, and the papal capellani as a temporary position. Auditores can judge any legal case or petition brought to the papacy, including those brought in person (rather than via letters). However, the pope reserves disputes over elections to himself. The precise jurisdictional boundaries between the penitentiarius and the auditores are unclear in the 13th century.
 
 **Auditor litterarum contradictarum**: This official receives appeals to petitions. He rejects foolish appeals, and otherwise usually tries to arbitrate a compromise solution.
 
@@ -1499,7 +1508,7 @@ In game terms, the examination is represented by comparing the character's Exami
 **Church Lore Ease Factor:** 6
 
 **Rank:** Exorcist: <br>
-**Civil & Canon Law Ease Factor:** 3 
+**Civil & Canon Law Ease Factor:** 3
 
 **Rank:** Acolyte<br>
 **Civil & Canon Law Ease Factor:** 6
@@ -1955,9 +1964,9 @@ Visitation is an opportunity to check up on the parish priest (in case he has fa
 
 Visitation can be extremely expensive for the parish. Usually a feast is provided for the visitor's retinue, and he may also claim visitation expenses from the parishes that he visits. Some members of the Church, and the papacy itself, are very uneasy about this practice and the abuses that it encourages (claiming for visits that never take place, for example). The papacy states that the guiding principle is that the shepherd (the bishop) should avoid burdening the flock (the parish), and should tailor the size of his retinue according to the resources of the parish. Consequently, the Third Lateran Council (1179) set the following *upper* limits on the size of the traveling retinue of the senior clergy:
 
-**Archbishop**: 40 to 50 horses. 
+**Archbishop**: 40 to 50 horses.
 
-**Bishop**: 20 to 30 horses. 
+**Bishop**: 20 to 30 horses.
 
 **Archdeacon**: 5 to 7 horses.
 
@@ -2012,7 +2021,7 @@ The following are example Ease Factors for petitions. The list is not exhaustive
 >Modifiers are as follows, if the petition is supported by certain people or circumstances.
 >
 >**Modifier:** +1<br>
-Support: The testimony of a significant number of individuals, a priest or deacon\*, a knight\*\*, magical evidence\*\*\*
+>Support: The testimony of a significant number of individuals, a priest or deacon\*, a knight\*\*, magical evidence\*\*\*
 >
 >**Modifier:** +1 to +3<br>
 >Support: A significant donation to the Church, an argument based on Civil and Canon Law, an argument based on Artes Liberales (Logic), an argument based on Intrigue
@@ -2098,7 +2107,7 @@ An audience petition is a social interaction so penalties for The Gift apply to 
 >- The parishioners testify that moving the feasts is necessary (+1 testimony of a significant number of individuals).
 >- The local knight gives his support for the petition (+1 support of a knight).
 >- The priest makes the argument that the parishioners will suffer over the winter if the feasts are not moved (+2 argument based on Artes Liberales (Logic)).
- 
+
 ### Acting Without Authority
 
 A bishop (or equivalently ranked character) may grant any petition or take any action with an Ease Factor of up to 15 without consulting his peers or superiors.
@@ -2351,9 +2360,7 @@ While the rule may seem very severe, it is attractive to many as an escape from 
 
 #### Daily Routine
 
-The daily routine is marked by bells, which summon monks to devotions and inform them of meal times and work periods. Every day apart from Sunday the monks 
-labor, whether copying books in the scriptorium, studying religious works, cleaning, cooking, repairing buildings or clothing, or working in the fields and gardens. A monk with whom characters seek to speak may 
-be out on a journey to distribute alms, visit the sick, or instruct a vicar, or he might be in the monastery but occupied with teaching duties. There is no manual labor on Sunday, only reading and study.
+The daily routine is marked by bells, which summon monks to devotions and inform them of meal times and work periods. Every day apart from Sunday the monks labor, whether copying books in the scriptorium, studying religious works, cleaning, cooking, repairing buildings or clothing, or working in the fields and gardens. A monk with whom characters seek to speak may be out on a journey to distribute alms, visit the sick, or instruct a vicar, or he might be in the monastery but occupied with teaching duties. There is no manual labor on Sunday, only reading and study.
 
 #### Discipline
 
@@ -2413,8 +2420,7 @@ The guest quarters are situated away from the monks' quarters, so that they do n
 
 Sick monks are given a room of their own, meat with meals, baths as desired, and they have another monk appointed to look after them while, in ideal circumstances, everything possible is done to restore them to full health. Larger houses have an infirmary; the role of infirmarian is often unpopular, as this person eats in the area where the sick are kept and has limited contact with his fellows while looking after his charges.
 
-Not all infirmaries are given over to the care of the sick. Large monasteries might have a detached infirmary, where elderly, indigent, and unhealthy individuals live and are cared for by the monks, receiving alms. In the case of the elderly whose children have now inherited their estates, as they are no longer capable of the work needed for sustenance, they may well have made payments during their working lives 
-to the monastery in return for a promise that they would receive care in their dotage. Others are simply charity cases taken in by the monks, who gladly receive donations toward their upkeep.
+Not all infirmaries are given over to the care of the sick. Large monasteries might have a detached infirmary, where elderly, indigent, and unhealthy individuals live and are cared for by the monks, receiving alms. In the case of the elderly whose children have now inherited their estates, as they are no longer capable of the work needed for sustenance, they may well have made payments during their working lives to the monastery in return for a promise that they would receive care in their dotage. Others are simply charity cases taken in by the monks, who gladly receive donations toward their upkeep.
 
 Nonetheless, a monastery always has individuals knowledgeable in Medicine and Chirurgery, and herbs and medicines are often available here.
 
@@ -2964,9 +2970,7 @@ Elizabeth was born in 1129 near Bonn to a family with strong connections with th
 
 She corresponded with Abbess Hildegard in Bingen and, like her, wrote of her visions, producing her *Books of Visions* in three volumes. Elizabeth had help from her brother Egbert with the later reports. Separating the insights gained by the nun in her visions from the ideas added by her brother is not easy in the first volume. It is even harder in the other two books, which contain reports of what Elizabeth saw and heard when she put questions posed by her brother and his abbot to her mystical teachers.
 
-The Church has not tested the validity of these visions as yet, because, unlike Hildegard's, they do not deal with theology; the Church authorities might call on religious player characters to help if such examination was called for. Elizabeth wrote other books, including *The Book of God's Way*; this writing includes warnings and instruction to laity and clergy at all levels, and at all stages of life, against 
-sins of hypocrisy, heresy, avarice, and so on. Copies of her Revelations of the Sacred Company of Virgins at Cologne are available in many monastic libraries. It concerns Saint Ursula, a fourth century English 
-princess, and her companions who were martyred in Cologne and whose bones were discovered there in 1155. There were a great number of bones and every establishment that obtained a relic wanted a copy of the book containing conversations between the martyrs and Elizabeth, to support the authenticity of the remains. Investigation can probably prove these visions false
+The Church has not tested the validity of these visions as yet, because, unlike Hildegard's, they do not deal with theology; the Church authorities might call on religious player characters to help if such examination was called for. Elizabeth wrote other books, including *The Book of God's Way*; this writing includes warnings and instruction to laity and clergy at all levels, and at all stages of life, against sins of hypocrisy, heresy, avarice, and so on. Copies of her Revelations of the Sacred Company of Virgins at Cologne are available in many monastic libraries. It concerns Saint Ursula, a fourth century English princess, and her companions who were martyred in Cologne and whose bones were discovered there in 1155. There were a great number of bones and every establishment that obtained a relic wanted a copy of the book containing conversations between the martyrs and Elizabeth, to support the authenticity of the remains. Investigation can probably prove these visions false
 
 >#### Books by Elizabeth of Schöna
 >
@@ -3022,15 +3026,15 @@ These stats are provided to help integrate female religious into your saga.
 
 ### Holy Maga (House Ex Miscellanea)
 
-**Characteristics:** Int +3, Per +2, Pre –1, Com 0, Str 0, Sta +2, Dex –2, Qik –1 
+**Characteristics:** Int +3, Per +2, Pre –1, Com 0, Str 0, Sta +2, Dex –2, Qik –1
 
 **Size:** 0
 
-**Age:** 31 (30) 
+**Age:** 31 (30)
 
-**Decrepitude:** 0 
+**Decrepitude:** 0
 
-**Warping Score:** 3 (3) 
+**Warping Score:** 3 (3)
 
 **Confidence:** 1 (3)
 
@@ -3054,7 +3058,7 @@ These stats are provided to help integrate female religious into your saga.
 
 **Arts:** Cr 2, In 2, Mu 0, Pe 0, Re 2, An 2, Aq 0, Au 0, Co 3, He 0, Ig 0, Im 0, Me 3, Te 0, Vi 0
 
-**Encumbrance:** 0 (0) 
+**Encumbrance:** 0 (0)
 
 **Spells Known:**
 
@@ -3076,15 +3080,15 @@ The following female companions are suitable for Ars Magica sagas.
 
 #### Mystic Nun
 
-**Characteristics:** Int +1, Per +2, Pre –2, Com +3, Str –1, Sta +2, Dex –1, Qik –1 
+**Characteristics:** Int +1, Per +2, Pre –2, Com +3, Str –1, Sta +2, Dex –1, Qik –1
 
 **Size:** –1
 
-**Age:** 23 (23) 
+**Age:** 23 (23)
 
-**Decrepitude:** 0 
+**Decrepitude:** 0
 
-**Warping Score:** 0 (0) 
+**Warping Score:** 0 (0)
 
 **Confidence:** 1 (3)
 
@@ -3092,11 +3096,11 @@ The following female companions are suitable for Ars Magica sagas.
 
 **Personality Traits:** Pious +6, Scholarly +2, Spontaneous +2
 
-**Reputations:** Mystic (home diocese) 2 
+**Reputations:** Mystic (home diocese) 2
 
 **Combat:**
 
-*Dodge:* Init –1, Atk n/a, Def –1, Dam n/a 
+*Dodge:* Init –1, Atk n/a, Def –1, Dam n/a
 
 **Soak:** +2
 
@@ -3118,13 +3122,13 @@ This character can be developed with up to 2 more points of both Flaws and Virtu
 
 **Characteristics:** Int +1, Per +2, Pre +1, Com +1, Str –1, Sta +2, Dex –1, Qik 0
 
-**Size:** –1 
+**Size:** –1
 
-**Age:** 28 (28) 
+**Age:** 28 (28)
 
-**Decrepitude:** 0 
+**Decrepitude:** 0
 
-**Warping Score:** 0 (0) 
+**Warping Score:** 0 (0)
 
 **Confidence:** 1 (3)
 
@@ -3132,11 +3136,11 @@ This character can be developed with up to 2 more points of both Flaws and Virtu
 
 **Personality Traits:** Compassionate +1, Disciplined +2, Reclusive +3
 
-**Reputations:** Dedicated (Christians) 1 
+**Reputations:** Dedicated (Christians) 1
 
 **Combat:**
 
-*Dodge:* Init +0, Atk n/a, Def –3, Dam n/a 
+*Dodge:* Init +0, Atk n/a, Def –3, Dam n/a
 
 **Soak:** +2
 
@@ -3160,13 +3164,13 @@ This character can be developed with up to 5 more points of Flaws and Virtues.
 
 **Characteristics:** Int +2, Per 0, Pre +3, Com +2, Str –1, Sta 0, Dex 0, Qik –1
 
-**Size:** 0 
+**Size:** 0
 
-**Age:** 22 (22) 
+**Age:** 22 (22)
 
-**Decrepitude:** 0 
+**Decrepitude:** 0
 
-**Warping Score:** 0 (0) 
+**Warping Score:** 0 (0)
 
 **Confidence:** 1 (3)
 
@@ -3176,7 +3180,11 @@ This character can be developed with up to 5 more points of Flaws and Virtues.
 
 **Combat:**
 
-*Dodge:* Init –1, Atk n/a, Def +2, Dam n/a *Fist:* Init –1, Atk +3, Def +2, Dam –1 *Kick:* Init –1, Atk +3, Def +1, Dam +2
+*Dodge:* Init –1, Atk n/a, Def +2, Dam n/a
+
+*Fist:* Init –1, Atk +3, Def +2, Dam –1
+
+*Kick:* Init –1, Atk +3, Def +1, Dam +2
 
 **Soak:** 0
 
@@ -3198,13 +3206,13 @@ Female grogs such as these may also fit well into your saga.
 
 **Characteristics:** Int +1, Per +1, Pre –1, Com +3, Str –1, Sta +2, Dex –1, Qik –1
 
-**Size:** 0 
+**Size:** 0
 
-**Age:** 32 (32) 
+**Age:** 32 (32)
 
-**Decrepitude:** 0 
+**Decrepitude:** 0
 
-**Warping Score:** 0 (0) 
+**Warping Score:** 0 (0)
 
 **Confidence:** 1 (3)
 
@@ -3232,13 +3240,13 @@ This character could be used in occasional stories, and could be run by a player
 
 **Characteristics:** Int 0, Per +1, Pre +1, Com +1, Str –1, Sta 0, Dex +1, Qik +1
 
-**Size:** 0 
+**Size:** 0
 
-**Age:** 23 (23) 
+**Age:** 23 (23)
 
-**Decrepitude:** 0 
+**Decrepitude:** 0
 
-**Warping Score:** 0 (0) 
+**Warping Score:** 0 (0)
 
 **Confidence:** 1 (3)
 
@@ -3265,11 +3273,11 @@ While with the beguines, she is a player character with useful contacts in town,
 
 **Characteristics:** Int 0, Per +2, Pre +2, Com +1, Str 0, Sta 0, Dex +1, Qik –1
 
-**Size:** 0 
+**Size:** 0
 
-**Age:** 28 (28) 
+**Age:** 28 (28)
 
-**Decrepitude:** 0 
+**Decrepitude:** 0
 
 **Warping Score:** 0 (0)
 
@@ -3279,7 +3287,13 @@ While with the beguines, she is a player character with useful contacts in town,
 
 **Combat:**
 
-*Dodge:* Init –1, Atk n/a, Def +2, Dam n/a *Fist:* Init –1, Atk +3, Def +1, Dam +0 *Kick:* Init –2, Atk +3, Def +0, Dam +3 **Soak:** 0
+*Dodge:* Init –1, Atk n/a, Def +2, Dam n/a
+
+*Fist:* Init –1, Atk +3, Def +1, Dam +0
+
+*Kick:* Init –2, Atk +3, Def +0, Dam +3
+
+**Soak:** 0
 
 **Fatigue Levels:** OK, 0, –1, –3, –3, Unconscious
 
@@ -3408,7 +3422,7 @@ For a novice to be accepted into a Cluniac house, he is expected to journey to C
 
 >#### The Demon BaalBaruth, Corrupter of Monks
 >
->**Order:** Spirits of Deceit 
+>**Order:** Spirits of Deceit
 >
 >**Infernal Might:** 25
 >
@@ -3422,7 +3436,7 @@ For a novice to be accepted into a Cluniac house, he is expected to journey to C
 >
 >**Reputations:** Creator of Heresies 7
 >
->**Hierarchy:** 7 
+>**Hierarchy:** 7
 >
 >**Combat:**
 >
@@ -3498,11 +3512,11 @@ Discovering the nature of the Cluniac corruption, if it exists in your saga, may
 
 >#### The Demon Patarus
 >
->**Order:** Accusers 
+>**Order:** Accusers
 >
 >**Infernal Might:** 15
 >
->**Characteristics:** Int +1, Per +1, Pre +2, Com +1, Str +2, Sta +3, Dex +2, Qik +1 
+>**Characteristics:** Int +1, Per +1, Pre +2, Com +1, Str +2, Sta +3, Dex +2, Qik +1
 >
 >**Size:** 0
 >
@@ -3512,7 +3526,7 @@ Discovering the nature of the Cluniac corruption, if it exists in your saga, may
 >
 >**Reputations:** Servant of BaalBaruth 1
 >
->**Hierarchy:** 1 
+>**Hierarchy:** 1
 >
 >**Combat:**
 >
@@ -3650,9 +3664,9 @@ The following character stats are provided to help storyguides integrate a corru
 
 **Age:** 86
 
-**Decrepitude:** 3 (6) 
+**Decrepitude:** 3 (6)
 
-**Warping Score:** 5 (2) 
+**Warping Score:** 5 (2)
 
 **Confidence Score:** 4 (8)
 
@@ -3678,7 +3692,7 @@ The demon behind this elaborate deception is Jaevert, Duke of the False Millenni
 
 >#### The Demon Jaevert
 >
->**Order:** Duke of the Deluders (Watchers) 
+>**Order:** Duke of the Deluders (Watchers)
 >
 >**Infernal Might:** 40
 >
@@ -3688,7 +3702,7 @@ The demon behind this elaborate deception is Jaevert, Duke of the False Millenni
 >
 >**Confidence Score:** 2 (6)
 >
->**Personality Traits**: Credible +3, Sly +2 
+>**Personality Traits**: Credible +3, Sly +2
 >
 >**Reputations:** Duke of False Millenniums 7
 >
@@ -3782,7 +3796,7 @@ Abbot Curtaigne moves freely among the order's houses, but his influence extends
 >
 >**Infernal Might:** 35
 >
->**Characteristics:** Int 0, Per 0, Pre +1, Com +3, Str +3, Sta +5 , Dex +3, Qik +2 
+>**Characteristics:** Int 0, Per 0, Pre +1, Com +3, Str +3, Sta +5 , Dex +3, Qik +2
 >
 >**Size:** +4
 >
@@ -3808,7 +3822,7 @@ Abbot Curtaigne moves freely among the order's houses, but his influence extends
 >
 >**Abilities**: Awareness 4 (guilt), Brawl 5 (whip), Civil & Canon Law 5 (The Rule of Saint Benedict), Infernal Lore 6 (politics), Philosophiae 4 (ethics), Theology 6 (sin)
 >
->**Powers:** 
+>**Powers:**
 >
 >*Obsession*, 1 to 3 points, Init –5, Vim: Obedience, Masochism
 >
@@ -3868,7 +3882,7 @@ By 1220, the crusade is in danger of falling apart, and the few remaining crusad
 >
 >In the Second and Third Crusades, the Templars took leading roles. The Second Crusade (1147 – 1149) saw the Poor Knights granted the right by Pope Eugenius to wear the red crusading cross over their hearts. The crusade leaders relied heavily on their advice, and by the time King Louis of France reached Antioch they had effectively taken over command of the crusade altogether.
 >
-The Third Crusade (1187 – 1192) also saw the Templars work closely with the crusade leaders. After the humiliating loss at the Battle of Hattin and the subsequent loss of Jerusalem, the Templars and Hospitallers augmented the crusader kings' troops. Grand Master Robert of Sabloel was raised to that position by King Richard of England, after which the Templars purchased the recently conquered island of Cyprus from the king (they sold the island a few years later to Guy of Lusignan, the erstwhile King of Jerusalem and vassal of King Richard).
+>The Third Crusade (1187 – 1192) also saw the Templars work closely with the crusade leaders. After the humiliating loss at the Battle of Hattin and the subsequent loss of Jerusalem, the Templars and Hospitallers augmented the crusader kings' troops. Grand Master Robert of Sabloel was raised to that position by King Richard of England, after which the Templars purchased the recently conquered island of Cyprus from the king (they sold the island a few years later to Guy of Lusignan, the erstwhile King of Jerusalem and vassal of King Richard).
 >
 >#### The Fourth Crusade
 >
@@ -3924,7 +3938,7 @@ In the future (if your saga follows history), the Templars gradually fall out of
 >Robert of Craon (1136-1149) <br>
 >Everard of Barres (1149-1152) – retired <br>
 >Bernard of Trémélay (1152-1153) <br>
->Andrew of Montbard (1153-1156) 
+>Andrew of Montbard (1153-1156) <br>
 >Bertrand of Blanquefort (1156-1169) <br>
 >Philip of Nablus (1169-1171) – retired <br>
 >Odo of Saint-Amand (1171-1179)<br>
@@ -3932,7 +3946,7 @@ In the future (if your saga follows history), the Templars gradually fall out of
 >Gérard of Ridefort (1185-1189) <br>
 >Robert of Sabloel (1191-1193) <br>
 >Gilbert Erail (1194-1200) <br>
->Philip of Plessiez (1201-1209)<br> 
+>Philip of Plessiez (1201-1209)<br>
 >William of Chartres (1210-1219) <br>
 >Peter of Montaigu (1219-1232)
 
@@ -4046,8 +4060,7 @@ They regularly engage in their own military actions and raids. Most of the Templ
 
 Apart from Acre and Antioch, the other significant Templar property in the Holy Land is Cyprus, where the Templars have owned large parts of the island since it was captured by King Richard.
 
-The Templars are embroiled in the dispute between the Angevin and Lusignan families, both of whom claim the throne of the Kingdom of Jerusalem. The Templars’ closeness to the Angevins puts 
-them in conflict with the Lusignan family, which rules Cyprus. They also regularly interfere in succession disputes with crusader lords and other Christian kingdoms, especially Armenia.
+The Templars are embroiled in the dispute between the Angevin and Lusignan families, both of whom claim the throne of the Kingdom of Jerusalem. The Templars’ closeness to the Angevins puts them in conflict with the Lusignan family, which rules Cyprus. They also regularly interfere in succession disputes with crusader lords and other Christian kingdoms, especially Armenia.
 
 #### Templars in Acre
 
@@ -4211,7 +4224,7 @@ The grand master is involved in a major dispute with Frederick II, the Holy Roma
 >
 >Electing a grand master is an elaborate procedure laid out in the Templar Rule, and follows the funeral of the previous incumbent. Most funerals of grand masters are attended by a great number of dignitaries and leaders; most great nobles and clergy in the Holy Land attend. After the funeral, a grand commander (different than the office of grand commander) is elected by the Eastern provincial Templar commanders. The grand commander governs the Poor Knights until a new grand master is chosen. Although technically any ranking Templar official can participate, in practice due to time constraints only those officials present in the Holy Land are involved.
 >
->The officers present then elect a college of 13, consisting of eight brotherknights, four brother-sergeants, and the chaplain in Acre. These 13 represent Christ and his twelve apostles — with the chaplain standing for Christ himself. When the name is announced, the new grand master is acclaimed by all present, and carried to the chapel and deposited at the altar.
+>The officers present then elect a college of 13, consisting of eight brother-knights, four brother-sergeants, and the chaplain in Acre. These 13 represent Christ and his twelve apostles — with the chaplain standing for Christ himself. When the name is announced, the new grand master is acclaimed by all present, and carried to the chapel and deposited at the altar.
 >
 >According to the rule, the grand master is chosen by the will of God, through the elected representatives. A consensus decision is preferable, although a majority vote is allowed. In practice, appointment to the position of grand master is very political, with a great number of grand masters ascending to that exalted position through the intervention of a supportive and powerful secular ruler.
 >
@@ -4259,7 +4272,7 @@ At a regional and local level, the structures laid out here are replicated as mu
 
 The brother-knights are the core of the Templars, and are granted the great privilege of wearing white mantles emblazoned with a red cross. Those of noble birth who enter the order give up their clothes and goods to the draper, and are issued a standard set of clothes and armor. By 1220, the Templars require a brother-knight to be of noble birth, the son of a secular knight, or the son of the daughter of a knight to be admitted to this rank.
 
-In theory, all brother-knights are equal, but those who were prominent or of high station before their admission to the order are typically promoted to a senior position within the Templar hierarchy or are at least treated with more respect. Despite this, only the great officers or commanders live in comfort or luxury. Most brotherknights live austere lives.
+In theory, all brother-knights are equal, but those who were prominent or of high station before their admission to the order are typically promoted to a senior position within the Templar hierarchy or are at least treated with more respect. Despite this, only the great officers or commanders live in comfort or luxury. Most brother-knights live austere lives.
 
 Brother-knights are expected to have military or combat experience prior to becoming a Templar, by participating in secular conflicts. Upon joining the Templars, brother-knights are given shock-training in the art of disciplined and sustained communal warfare — in game terms, however, this is regular practice and exposure, rather than formal training (it provides no additional experience points, but does allow Templars to fight as trained groups, see the insert "Trained Group Combat").
 
@@ -4325,8 +4338,7 @@ Theology is not a high priority for the Templars. Their devotion to Saint Euphem
 
 Despite the Templars' disdain for education, there have some attempts at translating religious works, including parts of the Bible and the Templar Rule, into Anglo-Norman French and other "common tongues." The Church has yet to crack down on these translations (it does not until 1230), so many Templar preceptories contain translated copies of religious books, including the Old Testament Book of Judges.
 
-The Templar Rule sets out a great deal of the religious life of the order, noting all of the saints venerated by the Templars, as well as listing feast days. Held in special regard is the Blessed Virgin Mary, Queen 
-of Heaven. The Blessed Virgin is considered the patron of the order, and a Templar tradition holds that this was because the Annunciation occurred at the Temple in Jerusalem. Newly inducted members swear their oaths in the name of the Virgin, and the chapter meetings and daily prayers start with devotions to Mary.
+The Templar Rule sets out a great deal of the religious life of the order, noting all of the saints venerated by the Templars, as well as listing feast days. Held in special regard is the Blessed Virgin Mary, Queen of Heaven. The Blessed Virgin is considered the patron of the order, and a Templar tradition holds that this was because the Annunciation occurred at the Temple in Jerusalem. Newly inducted members swear their oaths in the name of the Virgin, and the chapter meetings and daily prayers start with devotions to Mary.
 
 The Templars venerate several other prominent female saints, including the martyr Saint Euphemia of Chalcedon, who was martyred by pagans after refusing to recant her Christianity. The examples set by these female saints is seen as very valuable to the Templars, reminding them of the need to be humble, to remember human frailty and sin, to be courteous, chaste, honorable in word and deed, and to do works that please God.
 
@@ -4366,7 +4378,7 @@ In the Holy Land or Iberia, when Templars are at war, their daily routine change
 
 #### Military Tactics
 
-The Templars have established military tactics, which are recorded in their rule. Everything centers upon the cavalry charge. The charge, when carried out correctly and in the right circumstances, can be decisive in battle. The role of foot soldiers and archers — most of whom are mercenaries — is not recorded in the rule, but these troops are under the command of various senior Templar brotherknights, who command them as they see fit. The squires of brother-knights are not expected to fight, but are instead required to assist the knights. The Templars rely upon the cavalry charge, but also fight on foot or in other formations as the situation requires.
+The Templars have established military tactics, which are recorded in their rule. Everything centers upon the cavalry charge. The charge, when carried out correctly and in the right circumstances, can be decisive in battle. The role of foot soldiers and archers — most of whom are mercenaries — is not recorded in the rule, but these troops are under the command of various senior Templar brother-knights, who command them as they see fit. The squires of brother-knights are not expected to fight, but are instead required to assist the knights. The Templars rely upon the cavalry charge, but also fight on foot or in other formations as the situation requires.
 
 Another key part of the Templar's warfare is the famous black and white banner. This has both tactical and symbolic importance. While the banner is raised, no Templar is permitted to retreat. It also represents the center of the order's troops, and is the place to which the troops withdraw to regroup and charge again. Its loss is a symbolic disaster — though spares are kept by the gonfanier — and the brothers prefer to die rather than let it be captured.
 
@@ -4560,7 +4572,7 @@ The character is a brother-knight in the Poor Knights of the Temple of Solomon, 
 >
 >#### Brother-Knights
 >
->Brother-knights all have the same equipment, clothes, weapons, and armor. Armor includes a helmet, mailed hauberk (covering the head and body down to knees), and metal leg and feet armor. This is worn over a padded jacket and hose. Brother-knights also have a sword, a shield, a lance, a dagger, a bread knife, a pocket knife, and a "Turkish" mace (a mace with a fixed metal head with spikes at the end). The Templar uniform consists of two shirts, two pairs of breeches, two pairs of hose, and a length of rope as a belt. Each brotherknight is issued with three horses and a squire, and at the commander's discretion a brother-knight can be given an additional horse and squire. When on campaign, Templar knights also carry portable bedding, blankets, sheets, storage bags, cooking and eating utensils, and drinking flasks and cups.
+>Brother-knights all have the same equipment, clothes, weapons, and armor. Armor includes a helmet, mailed hauberk (covering the head and body down to knees), and metal leg and feet armor. This is worn over a padded jacket and hose. Brother-knights also have a sword, a shield, a lance, a dagger, a bread knife, a pocket knife, and a "Turkish" mace (a mace with a fixed metal head with spikes at the end). The Templar uniform consists of two shirts, two pairs of breeches, two pairs of hose, and a length of rope as a belt. Each brother-knight is issued with three horses and a squire, and at the commander's discretion a brother-knight can be given an additional horse and squire. When on campaign, Templar knights also carry portable bedding, blankets, sheets, storage bags, cooking and eating utensils, and drinking flasks and cups.
 >
 >#### Brother-Sergeants
 >
@@ -4568,7 +4580,7 @@ The character is a brother-knight in the Poor Knights of the Temple of Solomon, 
 >
 >#### Squires
 >
->Squires provide support and look after a brother-knight's arms armor, equipment, and horses. As they are outsiders, they are not permitted to wear the mantle or red cross of the Templars, instead wearing plain reinforced leather armor or a mail hauberk, and carrying a sword and dagger — most squires have no active combat role other than to support their knight. Templar squires bear no resemblance to chivalric relationships between knight and squire. It is a relationship of master and servant squires are never members of the order but are outsiders hired for a set period, bound by obligation and often brutal discipline. This includes floggings and being placed in irons if the squire is obstinate or disobedient.
+>Squires provide support and look after a brother-knight's arms, armor, equipment, and horses. As they are outsiders, they are not permitted to wear the mantle or red cross of the Templars, instead wearing plain reinforced leather armor or a mail hauberk, and carrying a sword and dagger — most squires have no active combat role other than to support their knight. Templar squires bear no resemblance to chivalric relationships between knight and squire. It is a relationship of master and servant; squires are never members of the order but are outsiders hired for a set period, bound by obligation and often brutal discipline. This includes floggings and being placed in irons if the squire is obstinate or disobedient.
 
 #### Brother-Priest
 
@@ -4608,13 +4620,13 @@ The character works as a skilled employee of the Poor Knights of the Temple of S
 
 *Minor, Social Status*
 
-The character is technically a brotherknight or brother-sergeant for the Poor Knights of the Temple of Solomon, but is really an administrator for the order's many holdings and activities. While he has sworn the Templar oath and vows, and lives a monastic life, his many duties means he is likely to never see active combat. He is answerable only to his superiors in the order and to the pope. He may have considerable influence and access to enormous resources, but no additional time. You may take Academic Abilities during character creation. This Virtue can replace the Brother-Knight, Brother-Sergeant, and Brother-Priest Status Virtues. This Virtue is only available to male characters.
+The character is technically a brother-knight or brother-sergeant for the Poor Knights of the Temple of Solomon, but is really an administrator for the order's many holdings and activities. While he has sworn the Templar oath and vows, and lives a monastic life, his many duties means he is likely to never see active combat. He is answerable only to his superiors in the order and to the pope. He may have considerable influence and access to enormous resources, but no additional time. You may take Academic Abilities during character creation. This Virtue can replace the Brother-Knight, Brother-Sergeant, and Brother-Priest Status Virtues. This Virtue is only available to male characters.
 
 #### Commander
 
 *Major, Social Status*
 
-The character is a commander within the Poor Knights of the Temple of Solomon and has authority over all aspects of the order in a province or preceptory. This Virtue also grants the Temporal Influence Minor Virtue, as the character has the ear of any important nobles or clergymen in the area. He also has access to the considerable wealth of the Templars, including any funds, lands, and resources, although he has no extra time. He may levy taxes and tithes over the lands he controls as if he were a landed noble or bishop, and charge service fees on monies he lends, and he may even act as a judge for minor lay crimes committed on his lands. Because of his high position, he is a wellknown figure and has a Reputation of level 3 in his area. He is expected to support the order's crusading efforts if he is in the West, and if he lives in the East he is be expected to participate directly. Should the grand master die and the character lives in the East, he has the right to participate in choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
+The character is a commander within the Poor Knights of the Temple of Solomon and has authority over all aspects of the order in a province or preceptory. This Virtue also grants the Temporal Influence Minor Virtue, as the character has the ear of any important nobles or clergymen in the area. He also has access to the considerable wealth of the Templars, including any funds, lands, and resources, although he has no extra time. He may levy taxes and tithes over the lands he controls as if he were a landed noble or bishop, and charge service fees on monies he lends, and he may even act as a judge for minor lay crimes committed on his lands. Because of his high position, he is a well-known figure and has a Reputation of level 3 in his area. He is expected to support the order's crusading efforts if he is in the West, and if he lives in the East he is expected to participate directly. Should the grand master die and the character lives in the East, he has the right to participate in choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
 
 #### Office Holder
 
@@ -4626,7 +4638,7 @@ The character holds a position within the local hierarchy of the Poor Knights of
 
 *Minor, General*
 
-A member of the Poor Knights of the Temple of Solomon, the character enjoys great respect and admiration among his fellow brothers. This may be because of a great act of heroism or piety, or because of the rank or station he possessed before he joined the order. He starts with a Reputation of level 3 within the Templars.
+A member of the Poor Knights of the Temple of Solomon, the character enjoys great respect and admiration among his fellow brothers. This may be because of a great act of heroism or piety, or because of the rank or station he possessed before he joined the order. He starts with a Reputation of level 4 within the Templars.
 
 ### New Ability
 
@@ -4658,13 +4670,13 @@ Storyguides may use the following character stats to bring the Knights Templar i
 
 **Characteristics:** Int +1, Per –1, Pre 0, Com 0, Str +1 (1), Sta +2, Dex +1, Qik +1
 
-**Size:** 0 
+**Size:** 0
 
-**Age:** 44 (44) 
+**Age:** 44 (44)
 
-**Decrepitude:** 0 
+**Decrepitude:** 0
 
-**Warping Score:** 0 
+**Warping Score:** 0
 
 **Confidence Score:** 1 (3)
 
@@ -4676,7 +4688,7 @@ Storyguides may use the following character stats to bring the Knights Templar i
 
 **Reputations:** Influential +4 (Templars), Veteran +3 (Church and Military Orders)
 
-#### Combat:
+**Combat:**
 
 *Mace and Shield:* Init +2, Attack +11, Defense +8, Damage +9
 
@@ -4703,13 +4715,13 @@ This character is a former Templar brother-knight veteran from the Holy Land, wh
 
 **Characteristics:** Int +1, Per –1, Pre 0, Com +1, Str +1, Sta +2, Dex +1, Qik +1
 
-**Size:** 0 
+**Size:** 0
 
 **Age:** 19
 
-**Decrepitude:** 0 
+**Decrepitude:** 0
 
-**Warping Score:** 0 
+**Warping Score:** 0
 
 **Confidence Score:** 1 (3)
 
@@ -4719,9 +4731,9 @@ This character is a former Templar brother-knight veteran from the Holy Land, wh
 
 **Reputations:** Heroic (Templars) +3
 
-**Combat:** *Long Sword and Shield:* Init +3, Attack +10,
+**Combat:**
 
-Defense +8, Damage +7
+*Long Sword and Shield:* Init +3, Attack +10, Defense +8, Damage +7
 
 *Dagger:* Init +1, Attack +7, Defense +5, Damage +4
 
@@ -4747,29 +4759,25 @@ These are the traits of a young Templar brother-sergeant who has gained signific
 
 **Characteristics:** Int +2, Per –2, Pre +2, Com +2, Str 0, Sta 0, Dex 0, Qik +1
 
-**Size:** 0 
+**Size:** 0
 
-**Age:** 30 (30) 
+**Age:** 30 (30)
 
-**Decrepitude:** 0 
+**Decrepitude:** 0
 
-**Warping Score:** 0 (4) 
+**Warping Score:** 0 (4)
 
 **Confidence Score:** 1 (3)
 
-**Virtues and Flaws:** Brother-Priest; Magic
+**Virtues and Flaws:** Brother-Priest; Magic Sensitivity, Student of the Divine; Proud, Raised from the Dead;\* Lecherous (minor)
 
-#### The Church
+\* From *Realms of Power: The Divine,* page 36.
 
-Sensitivity, Student of the Divine; Proud, Raised from the Dead;\* Lecherous (minor)
-
-\* From *Realms of Power: The Divine,* page 36. 
-
-**Personality Traits:** Loyal +3, Proud +3 
+**Personality Traits:** Loyal +3, Proud +3
 
 **Reputations:** None
 
-#### Combat:
+**Combat:**
 
 *Fist:* Init +1, Attack +1, Defense 0, Damage +1
 
@@ -4878,13 +4886,13 @@ Player characters may meet one or more of the founder members, such as Sylvester
 >
 >**Characteristics:** Int +1, Per 0, Pre +4, Com +2, Str 0, Sta –1 (1), Dex –1, Qik –1
 >
->**Size:** 0 
+>**Size:** 0
 >
->**Age:** 39 (39) 
+>**Age:** 39 (39)
 >
->**Decrepitude:** 0 
+>**Decrepitude:** 0
 >
->**Warping Score:** 1 (0) 
+>**Warping Score:** 1 (0)
 >
 >**Confidence:** 1 (3)
 >
@@ -4892,9 +4900,9 @@ Player characters may meet one or more of the founder members, such as Sylvester
 >
 >**Personality Traits:** Compassionate +3, Humble +3, Pious +3
 >
->**Reputations:** Saintly (most of Western Europe and parts of Arab lands) 3 
+>**Reputations:** Saintly (most of Western Europe and parts of Arab lands) 3
 >
->**Combat:** 
+>**Combat:**
 >
 >*Dodge:* Init: –1, Atk n/a, Def –1, Dam n/a
 >
@@ -4914,8 +4922,7 @@ Player characters may meet one or more of the founder members, such as Sylvester
 
 ### Spreading the Movement
 
-In 1212, Francis set out for the Holy Land, but God had other ideas and the ship was wrecked on the Dalmatian coast. Francis recognized and accepted the correction and walked back to Italy. In 1214, Francis felt again a call to preach to the Saracens so set off walking through Spain towards Morocco, but his health failed and he was obliged to return to Italy. During the following year, Francis went to Rome where he met a man named Dominic, who was there to ask papal approval for a new religious order of preachers. Pope Honorius gave his approval and support, perceiving the Little Brothers and Dominic’s preachers as a valuable means 
-of countering heretical ideas. The pope urged Francis himself to remain close to Rome, under papal protection. Cardinal Ugolino was appointed protector of the followers of Francis.
+In 1212, Francis set out for the Holy Land, but God had other ideas and the ship was wrecked on the Dalmatian coast. Francis recognized and accepted the correction and walked back to Italy. In 1214, Francis felt again a call to preach to the Saracens so set off walking through Spain towards Morocco, but his health failed and he was obliged to return to Italy. During the following year, Francis went to Rome where he met a man named Dominic, who was there to ask papal approval for a new religious order of preachers. Pope Honorius gave his approval and support, perceiving the Little Brothers and Dominic’s preachers as a valuable means of countering heretical ideas. The pope urged Francis himself to remain close to Rome, under papal protection. Cardinal Ugolino was appointed protector of the followers of Francis.
 
 By 1217, Francis had around 5,000 followers ready to take their message of poverty and penance across Europe. The Franciscans' first general chapter meeting was held at the Portinuncula, Assisi, where certain brothers were nominated as provincials to lead the spread of the message. The earliest missions were to France, Spain, Portugal, and Morocco. Some of the friars met with opposition from fellow Christians, so those who set out in 1219 and after were supplied with documents to prove that they had papal approval.
 
@@ -4941,19 +4948,19 @@ The success of the new movement was so sudden and so great that new groups of fo
 >
 >**Characteristics:** Int +2, Per –1, Pre +1, Com +2, Str 0, Sta 0, Dex +1, Qik 0
 >
->**Size:** 0 
+>**Size:** 0
 >
->**Age:** 40 (40) 
+>**Age:** 40 (40)
 >
->**Decrepitude:** 0 
+>**Decrepitude:** 0
 >
->**Warping Score:** 0 (0) 
+>**Warping Score:** 0 (0)
 >
 >**Confidence:** 1 (3)
 >
 >**Virtues and Flaws:** Mendicant Friar; Strong-Willed, Enduring Constitution; Monastic Vows
 >
->**Combat:** 
+>**Combat:**
 >
 >*Dodge:* Init: 0, Atk n/a, Def 0, Dam n/a
 >
@@ -4961,7 +4968,7 @@ The success of the new movement was so sudden and so great that new groups of fo
 >
 >**Fatigue Levels:** OK, 0, 0, –2, –4, Unconscious
 >
->**Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20) 
+>**Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20)
 >
 >**Abilities:** Arabic 3 (preaching), Area Lore: Central Italy 2 (towns), Area Lore: Holy Land 2 (towns), Area Lore: Northern Italy 4 (towns), Area Lore: Southern Italy 2 (towns), Area Lore: Syria 1 (towns), Artes Liberales 4 (grammar), Awareness 3 (those troubled in mind), Bargain 2 (selling), Charm 2 (peasants), Chirurgy 2 (cleaning wounds), Church Lore 3 (monasticism), Civil and Canon Law 4 (monasticism), Concentration 3 (preaching), Craft: Mattress-making 2 (softness), Etiquette 2 (senior clergy), Folk Ken 4 (friars), Guile 2 (excuses), Intrigue 1 (negotiating), Italian 5 (preaching), Latin 4 (legal terms), Leadership 3 (friars), Organization Lore: Franciscans 3 (membership), Philosophiae 1 (moral philosophy), Profession: Scribe 2 (legal documents), Theology 2 (history)
 >
@@ -5059,11 +5066,11 @@ Unless something in your saga changes things, Clare becomes unwell in 1224 but c
 >
 >**Characteristics:** Int +1, Per +2, Pre 0, Com +2, Str 0, Sta 0, Dex 0, Qik 0
 >
->**Size:** –1 
+>**Size:** –1
 >
->**Age:** 26 (26) 
+>**Age:** 26 (26)
 >
->**Decrepitude:** 0 
+>**Decrepitude:** 0
 >
 >**Warping Score:** 0 (0)
 >
@@ -5075,7 +5082,7 @@ Unless something in your saga changes things, Clare becomes unwell in 1224 but c
 >
 >**Reputations:** Saintly (throughout Italy, France, Spain) 3
 >
->**Combat:** 
+>**Combat:**
 >
 >*Dodge:* Init: +0, Atk n/a, Def +0, Dam n/a
 >
@@ -5245,17 +5252,17 @@ The following characters are suitable as Franciscan additions to a saga.
 
 **Characteristics:** Int 0, Per +3, Pre 0, Com +1, Str 0, Sta 0, Dex +2, Qik 0
 
-**Size:** 0 
+**Size:** 0
 
-**Age:** 20 (20) 
+**Age:** 20 (20)
 
-**Decrepitude**: 0 
+**Decrepitude**: 0
 
 **Warping Score:** 0 (0)
 
 **Virtues and Flaws:** Religious; Improved Characteristics, Lesser Purifying Touch (Quotidian Fever); Weakness (Babies), Continence, Lame
 
-#### Combat:
+**Combat:**
 
 *Dodge*: Init: –1, Atk n/a, Def –3, Dam n/a Soak: 0
 
@@ -5269,9 +5276,11 @@ The following characters are suitable as Franciscan additions to a saga.
 
 **Characteristics:** Int +1, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex 0, Qik –1
 
-**Size:** 0 **Age:** 18 (18) 
+**Size:** 0
 
-**Decrepitude:** 0 
+**Age:** 18 (18)
+
+**Decrepitude:** 0
 
 **Warping Score:** 0 (0)
 
@@ -5279,9 +5288,13 @@ The following characters are suitable as Franciscan additions to a saga.
 
 **Personality Traits:** Forgiving +1, Gregarious +2, Practical +1
 
-#### Combat:
+**Combat:**
 
-*Dodge:* Init: –1, Atk n/a, Def –1, Dam n/a *Fist:* Init: –1, Atk +0, Def –1, Dam +0 *Kick*: Init: –2, Atk +0, Def –2, Dam +3
+*Dodge:* Init: –1, Atk n/a, Def –1, Dam n/a
+
+*Fist:* Init: –1, Atk +0, Def –1, Dam +0
+
+*Kick*: Init: –2, Atk +0, Def –2, Dam +3
 
 **Soak:** 0
 
